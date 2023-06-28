@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gmm"]
 	path = gmm
 	url = https://github.com/pchausse/gmm
-	shallow = true
-	registered = true
 [submodule "momentfit"]
 	path = momentfit
 	url = https://github.com/cran/momentfit
-	shallow = true
-	registered = true
