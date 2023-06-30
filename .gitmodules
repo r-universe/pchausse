@@ -7,4 +7,4 @@
 	url = https://github.com/pchausse/gmm
 [submodule "momentfit"]
 	path = momentfit
-	url = https://github.com/cran/momentfit
+	url = https://github.com/pchausse/momentfit
