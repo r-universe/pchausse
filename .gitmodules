@@ -8,6 +8,9 @@
 [submodule "gmm"]
 	path = gmm
 	url = https://github.com/pchausse/gmm
+[submodule "malp"]
+	path = malp
+	url = https://github.com/pchausse/malp
 [submodule "momentfit"]
 	path = momentfit
 	url = https://github.com/pchausse/momentfit
