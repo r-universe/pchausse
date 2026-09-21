@@ -1,0 +1,10 @@
+{
+  "id": 163582867,
+  "created_at": "2026-09-21T19:19:14.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["pchausse.r-universe.dev"]
+}
