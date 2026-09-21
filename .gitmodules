@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "metricsUW"]
 	path = metricsUW
-	url = https://codeberg.org/pchausse/metricsUW.git
+	url = https://codeberg.org/pchausse/metricsUW
