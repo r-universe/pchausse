@@ -1,16 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pchausse/pchausse.r-universe.dev
 	branch = HEAD
-[submodule "causalSLSE"]
-	path = causalSLSE
-	url = https://github.com/cran/causalSLSE
-[submodule "gmm"]
-	path = gmm
-	url = https://github.com/pchausse/gmm
-[submodule "malp"]
-	path = malp
-	url = https://github.com/pchausse/malp
-[submodule "momentfit"]
-	path = momentfit
-	url = https://github.com/pchausse/momentfit
+[submodule "metricsUW"]
+	path = metricsUW
+	url = https://codeberg.org/pchausse/metricsUW
