@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/pchausse/pchausse.r-universe.dev
 	branch = HEAD
+[submodule "causalSLSE"]
+	path = causalSLSE
+	url = https://codeberg.org/pchausse/causalSLSE
 [submodule "gmm"]
 	path = gmm
 	url = https://codeberg.org/pchausse/gmm
@@ -11,3 +14,6 @@
 [submodule "metricsUW"]
 	path = metricsUW
 	url = https://codeberg.org/pchausse/metricsUW
+[submodule "momentfit"]
+	path = momentfit
+	url = https://codeberg.org/pchausse/momentfit
