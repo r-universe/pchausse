@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/pchausse/pchausse.r-universe.dev
 	branch = HEAD
+[submodule "gmm"]
+	path = gmm
+	url = https://codeberg.org/pchausse/gmm
+[submodule "malp"]
+	path = malp
+	url = https://codeberg.org/pchausse/malp
 [submodule "metricsUW"]
 	path = metricsUW
 	url = https://codeberg.org/pchausse/metricsUW
