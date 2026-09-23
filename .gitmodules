@@ -5,6 +5,9 @@
 [submodule "causalSLSE"]
 	path = causalSLSE
 	url = https://codeberg.org/pchausse/causalSLSE
+[submodule "funcreg"]
+	path = funcreg
+	url = https://codeberg.org/pchausse/funcreg
 [submodule "gmm"]
 	path = gmm
 	url = https://codeberg.org/pchausse/gmm
