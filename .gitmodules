@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/pchausse/pchausse.r-universe.dev
 	branch = HEAD
+[submodule "SEIR"]
+	path = SEIR
+	url = https://codeberg.org/pchausse/SEIR
 [submodule "causalSLSE"]
 	path = causalSLSE
 	url = https://codeberg.org/pchausse/causalSLSE
@@ -20,3 +23,6 @@
 [submodule "momentfit"]
 	path = momentfit
 	url = https://codeberg.org/pchausse/momentfit
+[submodule "numericalecon"]
+	path = numericalecon
+	url = https://codeberg.org/pchausse/numericalecon
